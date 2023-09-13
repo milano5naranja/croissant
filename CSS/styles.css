@@ -7,11 +7,16 @@ p {
   text-align: center;
 }
 
-picture {
-  max-width: 50%;
+p {
+  color: rgb(79, 236, 157);
+}
+
+.picture {
+  max-width: 40%;
+  max-height: 40%;
   border-radius: 10px;
   margin: 30px auto;
-  size: 100px;
+  display: block;
 }
 
 footer {
@@ -21,4 +26,8 @@ footer {
 footer a {
   margin: 0 10px;
   color: mintcream;
+}
+
+.email {
+  color: yellow;
 }
